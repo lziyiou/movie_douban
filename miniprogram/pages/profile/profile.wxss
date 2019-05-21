@@ -1,0 +1,20 @@
+.avater_first{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.avater_second{
+  width: 74px;
+  height: 74px;
+  float:left;
+  border-radius: 50%;
+  border: 3px solid #eee;
+  overflow: hidden;
+}
+
+.profile{
+  display: flex;
+  justify-content: center;
+}
